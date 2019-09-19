@@ -235,7 +235,7 @@
                       </label>
                       
                       <label for="weight">
-                        <span>Lean Body Mass: (<a href="/lbm-calculator" target="_blank" rel="noopener noreferrer">calculator</a>)</span>
+                        <span>Lean Body Mass:</span>
                         <input id="weight" type="number" name="weight" min="0" />
                       </label>
                       
